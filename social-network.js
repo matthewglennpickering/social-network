@@ -65,7 +65,6 @@ class SocialNetwork {
   }
 }
 
-// Example Usage
 const network = new SocialNetwork();
 network.addPerson('Alice');
 network.addPerson('Bob');
